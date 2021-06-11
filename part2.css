@@ -1,0 +1,24 @@
+#slider {
+    border: 5px yellowgreen;
+    padding: 1%;
+    object-fit: cover;
+    margin-left: 30%;
+    border-style: double;
+}
+
+body{
+    background-color: azure;
+}
+
+#btnSlide{
+    margin-top: 10px;
+    margin-left: 30%;
+    width: 8%;
+    float: left;
+}
+
+#btnStopSlide{
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
